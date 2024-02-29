@@ -1,0 +1,13 @@
+
+body {
+  background-color: #d7cddfbe;
+  padding-top: 30px;
+}
+ 
+h1 {
+  font-family: 'Poppins', sans-serif, 'arial';
+  font-weight: 600; 
+  font-size: 48px;
+  color: rgba(69, 11, 124, 0.904);
+  text-align: center;
+}
